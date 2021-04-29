@@ -927,9 +927,7 @@ label{
 </head>
 <body>
 	
-<!-- 	<div class="nava">
-	<label id="label" for="toggle"> &#9776;</label>
-	</div> -->
+
 	<div class="nav">
 		<div class="header">
 			<a href="project.html"><img class="logo" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Kazakhstan_Football_Federation_logo.svg/1200px-Kazakhstan_Football_Federation_logo.svg.png" width="120px" height="120px" id=""></img></a>
